@@ -1,4 +1,5 @@
 # using the nodered docker image as base 
+# renamed to Dockerfile and pushing build
 
 FROM nodered/node-red-docker
 
